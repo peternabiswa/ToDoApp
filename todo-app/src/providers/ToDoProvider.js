@@ -16,8 +16,6 @@ const ToDoProvider = ({ children }) => {
 
   const removeTodo = (text) => {
     settodoList([...todoList.filter((item) => item !== text)]);
-    console.log(text);
-    console.log(todoList);
   };
 
   const contextValue = {
