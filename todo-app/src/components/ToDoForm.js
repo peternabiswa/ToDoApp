@@ -24,7 +24,7 @@ const ToDoForm = () => {
       <input
         type="text"
         value={todoItem}
-        placeholder="write here"
+        placeholder="Write here"
         onChange={onChangeFunctions}
       />
       <button type="submit">Add Todo</button>

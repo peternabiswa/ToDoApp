@@ -1,0 +1,1 @@
+This project utilizes the yelp API to scrap data on restaurants within a given number of miles of a location. The data is then used by a random meal selector to suggest ideas for ordering out.

@@ -1,0 +1,2327 @@
+{
+    "businesses": [
+        {
+            "id": "8dPFvqiYz4ZJUY4DZqZo1Q",
+            "alias": "hidden-spot-south-san-francisco-south-san-francisco",
+            "name": "Hidden Spot - South San Francisco",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dTM8wYiF3ETonZ1Ws3Fjzw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hidden-spot-south-san-francisco-south-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 498,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.6550735,
+                "longitude": -122.4103483
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "303 Grand Ave",
+                "address2": null,
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "303 Grand Ave",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508724484",
+            "display_phone": "(650) 872-4484",
+            "distance": 1124.7403857150869
+        },
+        {
+            "id": "4gzm11IL9fIHIciM7NHlwQ",
+            "alias": "me-so-hungry-too-south-san-francisco-2",
+            "name": "Me So Hungry Too",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IRM2IlRQ4VxskO1hyNaZ9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/me-so-hungry-too-south-san-francisco-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.6430054,
+                "longitude": -122.4260113
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "130 Northwood Dr",
+                "address2": null,
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "130 Northwood Dr",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16503920126",
+            "display_phone": "(650) 392-0126",
+            "distance": 1211.4522481422443
+        },
+        {
+            "id": "LEmv5brWkR8zx0EdeuGGIg",
+            "alias": "big-mouth-burgers-san-bruno-3",
+            "name": "Big Mouth Burgers",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F7TMGZ3VPvxPeFH9qQD6UA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-mouth-burgers-san-bruno-3?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 674,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.6265807090296,
+                "longitude": -122.427137017335
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "851 Cherry Ave",
+                "address2": "Ste 19",
+                "address3": null,
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "851 Cherry Ave",
+                    "Ste 19",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16508717636",
+            "display_phone": "(650) 871-7636",
+            "distance": 3030.639689782028
+        },
+        {
+            "id": "y7YL8rirhuccha01VWyFpg",
+            "alias": "creator-burger-daly-city",
+            "name": "Creator Burger",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SqyYnfaKqyDWokM8hdzDQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/creator-burger-daly-city?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 143,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.69946,
+                "longitude": -122.48258
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "514 Westlake Ctr",
+                "address2": null,
+                "address3": "",
+                "city": "Daly City",
+                "zip_code": "94015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "514 Westlake Ctr",
+                    "Daly City, CA 94015"
+                ]
+            },
+            "phone": "+16507314805",
+            "display_phone": "(650) 731-4805",
+            "distance": 7282.7339532623
+        },
+        {
+            "id": "uS-h7DY6xRgyzid78SL-FQ",
+            "alias": "love-burn-south-san-francisco",
+            "name": "Love Burn",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XYdbCUC1JjgyBpH8jOBb8g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/love-burn-south-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 289,
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.643,
+                "longitude": -122.426178
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "130 Northwood Dr",
+                "address2": null,
+                "address3": "Hometown Bowl",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "130 Northwood Dr",
+                    "Hometown Bowl",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16507631887",
+            "display_phone": "(650) 763-1887",
+            "distance": 1215.0049733612652
+        },
+        {
+            "id": "l8k215ZAfPgSOF9ULhHFow",
+            "alias": "47-hills-brewing-company-south-san-francisco-2",
+            "name": "47 Hills Brewing Company",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7cQziVlfEHQvPwm3TTH2Cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/47-hills-brewing-company-south-san-francisco-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 224,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.644218,
+                "longitude": -122.413452
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "137 S Linden Ave",
+                "address2": "",
+                "address3": null,
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "137 S Linden Ave",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508678476",
+            "display_phone": "(650) 867-8476",
+            "distance": 1334.9490830930504
+        },
+        {
+            "id": "F7NZt2_LD76JuocXBg9NpA",
+            "alias": "me-so-hungry-too-food-truck-san-francisco",
+            "name": "Me So Hungry Too Food Truck",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UEQ-xkO5jOCtT4_wQX_Y_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/me-so-hungry-too-food-truck-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.654,
+                "longitude": -122.41307
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+14155802869",
+            "display_phone": "(415) 580-2869",
+            "distance": 412.17475105250674
+        },
+        {
+            "id": "SLPahSbiIA7pbjpRXbIfhw",
+            "alias": "speedys-pizza-and-grill-south-san-francisco",
+            "name": "Speedy's Pizza And Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GSrgXLbcCxIjIoGX-Gm76Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/speedys-pizza-and-grill-south-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 127,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.649896,
+                "longitude": -122.430765
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "687 El Camino Real",
+                "address2": "",
+                "address3": null,
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "687 El Camino Real",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508711200",
+            "display_phone": "(650) 871-1200",
+            "distance": 796.0219333012138
+        },
+        {
+            "id": "UOForEkDjUF4tTB1ZBL5MA",
+            "alias": "burger-board-pacifica-2",
+            "name": "Burger-Board",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/36LsujvUSEvQDy1OhJCc0g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-board-pacifica-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 145,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.5950627396878,
+                "longitude": -122.506073266268
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5430 CA-1",
+                "address2": "",
+                "address3": null,
+                "city": "Pacifica",
+                "zip_code": "94044",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5430 CA-1",
+                    "Pacifica, CA 94044"
+                ]
+            },
+            "phone": "+16507359900",
+            "display_phone": "(650) 735-9900",
+            "distance": 9792.045526337688
+        },
+        {
+            "id": "HrfjBGIvKNrTREiKbrLZMQ",
+            "alias": "humble-sea-brewing-pacifica",
+            "name": "Humble Sea Brewing",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YvReR6WFl5CG3V6GIu2g_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/humble-sea-brewing-pacifica?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 100,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.59427216671638,
+                "longitude": -122.50673772316989
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5560 Pacific Coast Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Pacifica",
+                "zip_code": "94044",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5560 Pacific Coast Hwy",
+                    "Pacifica, CA 94044"
+                ]
+            },
+            "phone": "+16508988008",
+            "display_phone": "(650) 898-8008",
+            "distance": 9894.28148059054
+        },
+        {
+            "id": "meKoCMhxFzYQnDlBPerj-g",
+            "alias": "cafe-382-south-san-francisco",
+            "name": "Cafe 382",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iwAWviIF3gBzPk0Ih4ZkIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-382-south-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 884,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.655673395519,
+                "longitude": -122.411917256493
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "382 Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "382 Grand Ave",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16507631640",
+            "display_phone": "(650) 763-1640",
+            "distance": 1006.3530152766148
+        },
+        {
+            "id": "GL1BTNsT7YY2UWRLfEJ39g",
+            "alias": "five-guys-south-san-francisco-2",
+            "name": "Five Guys",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IE531wGZr_CR08Sqy_7ibw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-south-san-francisco-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 233,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.64487591393268,
+                "longitude": -122.45297019872453
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2278 Westborough Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2278 Westborough Blvd",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16502449900",
+            "display_phone": "(650) 244-9900",
+            "distance": 2808.1861980538465
+        },
+        {
+            "id": "QQvoA4Y0FXti_WG7DsLIgg",
+            "alias": "the-habit-burger-grill-daly-city",
+            "name": "The Habit Burger Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3KdztlmOWPnzdY5lj7AXqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-habit-burger-grill-daly-city?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 654,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.6689276518555,
+                "longitude": -122.46844010000001
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "305 Gellert Bl.",
+                "address2": "Suite A",
+                "address3": "",
+                "city": "Daly City",
+                "zip_code": "94015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "305 Gellert Bl.",
+                    "Suite A",
+                    "Daly City, CA 94015"
+                ]
+            },
+            "phone": "+16503015034",
+            "display_phone": "(650) 301-5034",
+            "distance": 4341.309702874895
+        },
+        {
+            "id": "7qgsnMg99OtH9cVHiYqLvg",
+            "alias": "pacifica-brewery-pacifica",
+            "name": "Pacifica Brewery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nRCZJ5ODJ0oWvdbll3YHLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pacifica-brewery-pacifica?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 408,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.60661,
+                "longitude": -122.49738
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4627 CA-1",
+                "address2": "",
+                "address3": null,
+                "city": "Pacifica",
+                "zip_code": "94044",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4627 CA-1",
+                    "Pacifica, CA 94044"
+                ]
+            },
+            "phone": "+16507355311",
+            "display_phone": "(650) 735-5311",
+            "distance": 8360.62865289096
+        },
+        {
+            "id": "WCk_ecR-PQuGIqd5I2hAZw",
+            "alias": "7-mile-house-brisbane",
+            "name": "7 Mile House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mw8OTxhPGoTzd-ahwSWKpg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/7-mile-house-brisbane?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 1492,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.704305,
+                "longitude": -122.407456
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2800 Bayshore Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Brisbane",
+                "zip_code": "94005",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2800 Bayshore Blvd",
+                    "Brisbane, CA 94005"
+                ]
+            },
+            "phone": "+14154672343",
+            "display_phone": "(415) 467-2343",
+            "distance": 5799.977138128853
+        },
+        {
+            "id": "kWLnzrg4ZB1UDKajb_Xukw",
+            "alias": "hometown-heroes-south-san-francisco",
+            "name": "Hometown Heroes",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fVr3_ZbgCfk6aoYtykdGgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hometown-heroes-south-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 257,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.6550735,
+                "longitude": -122.4103483
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "303 Grand Ave",
+                "address2": null,
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "303 Grand Ave",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508724484",
+            "display_phone": "(650) 872-4484",
+            "distance": 1124.7403857150869
+        },
+        {
+            "id": "f_zHRfyVszZA9948t5J07Q",
+            "alias": "maverick-jacks-burlingame",
+            "name": "Maverick Jack's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OnHjCuVgckxAgDRre1K7Mw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maverick-jacks-burlingame?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 425,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.58751,
+                "longitude": -122.36299
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1190 California Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Burlingame",
+                "zip_code": "94010",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1190 California Dr",
+                    "Burlingame, CA 94010"
+                ]
+            },
+            "phone": "+16503473061",
+            "display_phone": "(650) 347-3061",
+            "distance": 9049.95711261922
+        },
+        {
+            "id": "qp5AET3U6_BG1fM4TkPvng",
+            "alias": "beep-s-burgers-san-francisco",
+            "name": "Beep’s Burgers",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CFtIs2YvCuqe7AAEDPeTvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beep-s-burgers-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 843,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.72317,
+                "longitude": -122.45391
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1051 Ocean Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1051 Ocean Ave",
+                    "San Francisco, CA 94112"
+                ]
+            },
+            "phone": "+14155842650",
+            "display_phone": "(415) 584-2650",
+            "distance": 8196.570914007087
+        },
+        {
+            "id": "FCdPf3iw5kl9FtcXFOUloQ",
+            "alias": "wahlburgers-burlingame",
+            "name": "Wahlburgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RsqGPdh32O9BjrlOa3nCcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wahlburgers-burlingame?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.5787854324991,
+                "longitude": -122.346646696669
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1219 Burlingame Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Burlingame",
+                "zip_code": "94010",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1219 Burlingame Ave",
+                    "Burlingame, CA 94010"
+                ]
+            },
+            "phone": "+16503990777",
+            "display_phone": "(650) 399-0777",
+            "distance": 10704.320296585598
+        },
+        {
+            "id": "L7npXQfgS6ieg-iEdzFu6Q",
+            "alias": "big-joes-san-bruno-san-bruno",
+            "name": "Big Joe's - San Bruno",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mfC0FhJnITzr6C88pPVQ2g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-joes-san-bruno-san-bruno?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 191,
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.62417570846922,
+                "longitude": -122.4113889022736
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "487 San Mateo Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "487 San Mateo Ave",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16508719502",
+            "display_phone": "(650) 871-9502",
+            "distance": 3434.010814606528
+        },
+        {
+            "id": "0i0GDMrn1hxnbaXU579J8g",
+            "alias": "hula-hoops-south-san-francisco-2",
+            "name": "Hula Hoops",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QTye38JBo9VrCHfW_V9Q2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hula-hoops-south-san-francisco-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 961,
+            "categories": [
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.644909,
+                "longitude": -122.452615
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2278 Westborough Blvd",
+                "address2": "Ste 203",
+                "address3": null,
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2278 Westborough Blvd",
+                    "Ste 203",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16509523255",
+            "display_phone": "(650) 952-3255",
+            "distance": 2777.5916631314526
+        },
+        {
+            "id": "CKCDW5Fza5XpDy06EY64YA",
+            "alias": "hashes-and-brews-san-bruno",
+            "name": "Hashes & Brews",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1fOXVo330WLdyLIPNWmQ4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hashes-and-brews-san-bruno?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 470,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.6262753370063,
+                "longitude": -122.424908618057
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "811 Cherry Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "811 Cherry Ave",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16509523189",
+            "display_phone": "(650) 952-3189",
+            "distance": 3047.5949203472537
+        },
+        {
+            "id": "Rr69QdFqQfYabWsHRzyFbw",
+            "alias": "gilman-brewing-company-daly-city-daly-city",
+            "name": "Gilman Brewing Company - Daly City",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hGnptY1XZLRNaTXATxVxOg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gilman-brewing-company-daly-city-daly-city?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 153,
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.70120461765265,
+                "longitude": -122.47044629958536
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2001 Junipero Serra Blvd",
+                "address2": "Ste 180",
+                "address3": null,
+                "city": "Daly City",
+                "zip_code": "94014",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2001 Junipero Serra Blvd",
+                    "Ste 180",
+                    "Daly City, CA 94014"
+                ]
+            },
+            "phone": "+16507314241",
+            "display_phone": "(650) 731-4241",
+            "distance": 6735.107713593392
+        },
+        {
+            "id": "T79FX13d5tx9-1kRBjcLZg",
+            "alias": "the-habit-burger-grill-millbrae",
+            "name": "The Habit Burger Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PjC2KJiStME4TmK6abEKcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-habit-burger-grill-millbrae?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.5970599,
+                "longitude": -122.3865697
+            },
+            "transactions": [],
+            "location": {
+                "address1": "143 S. El Camino Real",
+                "address2": null,
+                "address3": null,
+                "city": "Millbrae",
+                "zip_code": "94030",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "143 S. El Camino Real",
+                    "Millbrae, CA 94030"
+                ]
+            },
+            "phone": "+16506890180",
+            "display_phone": "(650) 689-0180",
+            "distance": 7132.07113426205
+        },
+        {
+            "id": "nJC1M0mZrzKwSv1jcURQKQ",
+            "alias": "red-robin-gourmet-burgers-and-brews-san-bruno",
+            "name": "Red Robin Gourmet Burgers and Brews",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-dZOBlS_60hJpRDcfaiF7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/red-robin-gourmet-burgers-and-brews-san-bruno?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 1019,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.63907,
+                "longitude": -122.41941695645602
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1274 El Camino Real",
+                "address2": "",
+                "address3": "",
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1274 El Camino Real",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16505884600",
+            "display_phone": "(650) 588-4600",
+            "distance": 1651.9288227289674
+        },
+        {
+            "id": "S0OVpWde3SlzzrygVQXdoQ",
+            "alias": "hall-of-flame-burgers-san-francisco",
+            "name": "Hall Of Flame Burgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zETJ45yn7fhkAxv0wFp9JQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hall-of-flame-burgers-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 580,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7174879011283,
+                "longitude": -122.473734660797
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "73 Cambon Dr",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94132",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "73 Cambon Dr",
+                    "San Francisco, CA 94132"
+                ]
+            },
+            "phone": "+14155844444",
+            "display_phone": "(415) 584-4444",
+            "distance": 8383.568064436891
+        },
+        {
+            "id": "g5LwI2c3ag1hYE_k67SZQw",
+            "alias": "darby-dans-gourmet-sandwiches-south-san-francisco-2",
+            "name": "Darby Dan's Gourmet Sandwiches",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dEQio4Dz3J_jj64jsiCDqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/darby-dans-gourmet-sandwiches-south-san-francisco-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 511,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.6595451,
+                "longitude": -122.4055122
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "733 Airport Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "733 Airport Blvd",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508760122",
+            "display_phone": "(650) 876-0122",
+            "distance": 1677.4726615000493
+        },
+        {
+            "id": "1PiEgr_LFAstfaeZAto8Eg",
+            "alias": "five-guys-san-bruno-2",
+            "name": "Five Guys",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZnkQdVgy0dQCo_P_RSP0BQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-san-bruno-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 208,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.63692,
+                "longitude": -122.41902
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1150 El Camino Real",
+                "address2": "",
+                "address3": "",
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1150 El Camino Real",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16507638977",
+            "display_phone": "(650) 763-8977",
+            "distance": 1994.324275747689
+        },
+        {
+            "id": "QCQ3WN7hd9xMPs2_ycHa_A",
+            "alias": "broken-record-san-francisco",
+            "name": "Broken Record",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tCfiqhwdx7x7LYQIUQky0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/broken-record-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 1256,
+            "categories": [
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.71426,
+                "longitude": -122.437
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1166 Geneva Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1166 Geneva Ave",
+                    "San Francisco, CA 94112"
+                ]
+            },
+            "phone": "+14159631713",
+            "display_phone": "(415) 963-1713",
+            "distance": 6858.567202545613
+        },
+        {
+            "id": "Ne9IVmO5KFaevaKEHR-ttg",
+            "alias": "jacks-restaurant-and-bar-san-bruno",
+            "name": "Jack's Restaurant & Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/De7VZsxtMec2fVkGUIFJgg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jacks-restaurant-and-bar-san-bruno?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 1280,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.63399,
+                "longitude": -122.420218
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1050 Admiral Ct",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1050 Admiral Ct",
+                    "Ste A",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16505892222",
+            "display_phone": "(650) 589-2222",
+            "distance": 2199.657434173064
+        },
+        {
+            "id": "dqlvC1kkWjPzMob-QfVwhg",
+            "alias": "saltyard-burlingame",
+            "name": "Saltyard",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2QGv6K_rFvCCUMuQRTREJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saltyard-burlingame?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 459,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.5796239823611,
+                "longitude": -122.346515189589
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "322 Lorton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Burlingame",
+                "zip_code": "94010",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "322 Lorton Ave",
+                    "Burlingame, CA 94010"
+                ]
+            },
+            "phone": "+16503427355",
+            "display_phone": "(650) 342-7355",
+            "distance": 10641.30113007677
+        },
+        {
+            "id": "w5VlHqqM9jrxnBGILtYJ3A",
+            "alias": "nations-giant-hamburgers-daly-city-4",
+            "name": "Nation's Giant Hamburgers",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Sh0M6Z6M3pnd0EjwTkyd7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nations-giant-hamburgers-daly-city-4?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 915,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.7015289012293,
+                "longitude": -122.482145414237
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "201 Westlake Center",
+                "address2": "",
+                "address3": "",
+                "city": "Daly City",
+                "zip_code": "94015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "201 Westlake Center",
+                    "Daly City, CA 94015"
+                ]
+            },
+            "phone": "+16507558880",
+            "display_phone": "(650) 755-8880",
+            "distance": 7442.599416435573
+        },
+        {
+            "id": "noeX2rZfhXt1VIzyQkemRA",
+            "alias": "in-n-out-burger-millbrae",
+            "name": "In-N-Out Burger",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ouIlbx7m6sf_1uAh-i2hxA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/in-n-out-burger-millbrae?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 919,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.600821,
+                "longitude": -122.382428
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "11 Rollins Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Millbrae",
+                "zip_code": "94030",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11 Rollins Rd",
+                    "Millbrae, CA 94030"
+                ]
+            },
+            "phone": "+18007861000",
+            "display_phone": "(800) 786-1000",
+            "distance": 6877.658898567886
+        },
+        {
+            "id": "1nvEY9aJJjgHGWTcE2QAGg",
+            "alias": "chick-fil-a-daly-city-2",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pMrsxnLEUi6sAR8I_ShCew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-daly-city-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 161,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.674181,
+                "longitude": -122.469439
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "6 Serramonte Ctr Pad Building",
+                "address2": "Bldg 500",
+                "address3": "",
+                "city": "Daly City",
+                "zip_code": "94015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6 Serramonte Ctr Pad Building",
+                    "Bldg 500",
+                    "Daly City, CA 94015"
+                ]
+            },
+            "phone": "+16504643934",
+            "display_phone": "(650) 464-3934",
+            "distance": 4677.901217458628
+        },
+        {
+            "id": "L7cdyWU_h8uEYKx7yCKmeQ",
+            "alias": "hana-hawaiian-barbeque-san-bruno-2",
+            "name": "Hana Hawaiian Barbeque",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t0vBwYGQijsZGqaLA5lgeg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hana-hawaiian-barbeque-san-bruno-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 353,
+            "categories": [
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.6241,
+                "longitude": -122.41093
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "482 San Mateo Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "482 San Mateo Ave",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16506348788",
+            "display_phone": "(650) 634-8788",
+            "distance": 3460.188523672784
+        },
+        {
+            "id": "asPtPsNNV5-TnFCu2bwAWQ",
+            "alias": "jc-bruno-restaurant-san-bruno",
+            "name": "JC Bruno Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_l8TninK-2KBIbg7ALYlrw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jc-bruno-restaurant-san-bruno?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 132,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.62928,
+                "longitude": -122.411576851852
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "741 San Mateo Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "741 San Mateo Ave",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16502709023",
+            "display_phone": "(650) 270-9023",
+            "distance": 2891.5815452704946
+        },
+        {
+            "id": "TcVxM37qxswYEFSu5pOooA",
+            "alias": "foundry-and-lux-south-san-francisco",
+            "name": "Foundry & Lux",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D8illzzIWfYf4mg7r-bYcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/foundry-and-lux-south-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 245,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.663653357130656,
+                "longitude": -122.39440066110316
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "151 Oyster Point Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "151 Oyster Point Blvd",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508663924",
+            "display_phone": "(650) 866-3924",
+            "distance": 2757.2610250972766
+        },
+        {
+            "id": "7ZXeego__AD9HkvmvgfLtw",
+            "alias": "breakers-breakfast-brunch-and-lunch-pacifica",
+            "name": "Breakers Breakfast, Brunch & Lunch",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LbsLzYi2Y_ioF3oYhYgo7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/breakers-breakfast-brunch-and-lunch-pacifica?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 766,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.609742,
+                "longitude": -122.4965504
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "145 Rockaway Beach Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Pacifica",
+                "zip_code": "94044",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "145 Rockaway Beach Ave",
+                    "Pacifica, CA 94044"
+                ]
+            },
+            "phone": "+16505571274",
+            "display_phone": "(650) 557-1274",
+            "distance": 8102.759819208846
+        },
+        {
+            "id": "ggGm83VrQAZS0um1uhiSEw",
+            "alias": "original-joes-westlake-daly-city-5",
+            "name": "Original Joe's Westlake",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VDljaC5jSNZ-gA13Bpsz1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/original-joes-westlake-daly-city-5?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 1468,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.70171,
+                "longitude": -122.48584
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "11 Glenwood Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Daly City",
+                "zip_code": "94015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11 Glenwood Ave",
+                    "Daly City, CA 94015"
+                ]
+            },
+            "phone": "+16507557400",
+            "display_phone": "(650) 755-7400",
+            "distance": 7644.256816417235
+        },
+        {
+            "id": "IQN7FHupd698zsc6XmvWQA",
+            "alias": "phillies-san-francisco",
+            "name": "Phillies",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gZ-xKNWF6D4BIJ0dbPu4eA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/phillies-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 288,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7160703,
+                "longitude": -122.4406828
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "932 Geneva Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "932 Geneva Ave",
+                    "San Francisco, CA 94112"
+                ]
+            },
+            "phone": "+14153349606",
+            "display_phone": "(415) 334-9606",
+            "distance": 7112.662838964073
+        },
+        {
+            "id": "0jvQ5MYU-1u7xOnVCAPgpQ",
+            "alias": "sams-food-market-san-bruno",
+            "name": "Sam's Food Market",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xf2jgEKZxnDIInpo90X7cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sams-food-market-san-bruno?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.6324513,
+                "longitude": -122.4115449
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "899 San Mateo Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Bruno",
+                "zip_code": "94066",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "899 San Mateo Ave",
+                    "San Bruno, CA 94066"
+                ]
+            },
+            "phone": "+16508731470",
+            "display_phone": "(650) 873-1470",
+            "distance": 2559.39841973189
+        },
+        {
+            "id": "sWArpBvrbBDszuMZREMsag",
+            "alias": "farm-and-vine-american-bistro-burlingame",
+            "name": "Farm & Vine American Bistro",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wm4AezK8UpszbIbMGqIcGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/farm-and-vine-american-bistro-burlingame?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 319,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.5786387,
+                "longitude": -122.345329
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "248 Lorton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Burlingame",
+                "zip_code": "94010",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "248 Lorton Ave",
+                    "Burlingame, CA 94010"
+                ]
+            },
+            "phone": "+16504457256",
+            "display_phone": "(650) 445-7256",
+            "distance": 10771.172238073914
+        },
+        {
+            "id": "Gq9hYzt_0-q9TG06arOObQ",
+            "alias": "the-garden-club-south-san-francisco-2",
+            "name": "The Garden Club",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DDTvn6JhQcNOU1Hi_3aPDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-garden-club-south-san-francisco-2?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 665,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.661645,
+                "longitude": -122.438309
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1144 Mission Rd",
+                "address2": "",
+                "address3": "",
+                "city": "South San Francisco",
+                "zip_code": "94080",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1144 Mission Rd",
+                    "South San Francisco, CA 94080"
+                ]
+            },
+            "phone": "+16508734910",
+            "display_phone": "(650) 873-4910",
+            "distance": 1610.6173268858665
+        },
+        {
+            "id": "UDmCfcniRBpQBBDkc8ENoQ",
+            "alias": "big-baba-eats-san-francisco",
+            "name": "Big Baba Eats",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qsxUK8scKjF6g3FXrqsOsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-baba-eats-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.713386,
+                "longitude": -122.458886
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "198 Broad St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "198 Broad St",
+                    "San Francisco, CA 94112"
+                ]
+            },
+            "phone": "+14155872458",
+            "display_phone": "(415) 587-2458",
+            "distance": 7350.359385544829
+        },
+        {
+            "id": "lF7N1IO-MnIlIYc76DCvDg",
+            "alias": "b-and-j-1-4-lb-burgers-san-francisco",
+            "name": "B & J 1/4 Lb Burgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1RmMFYI9xWVZqHu6_zRVcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/b-and-j-1-4-lb-burgers-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 75,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7223005,
+                "longitude": -122.3959689
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "6202 3rd St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94124",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6202 3rd St",
+                    "San Francisco, CA 94124"
+                ]
+            },
+            "phone": "+14158734935",
+            "display_phone": "(415) 873-4935",
+            "distance": 8000.284305641839
+        },
+        {
+            "id": "46MYwosU1q3J_s9U6_9krQ",
+            "alias": "satay-by-the-bay-sf-pacifica-3",
+            "name": "Satay By The Bay SF",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3NkYUPNLsRqpKy878vFS1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/satay-by-the-bay-sf-pacifica-3?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "singaporean",
+                    "title": "Singaporean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.622485499999996,
+                "longitude": -122.48805300000001
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "Pacifica",
+                "zip_code": "94044",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "Pacifica, CA 94044"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6690.088100318782
+        },
+        {
+            "id": "lZjho8m-yjFu-PODdhOhlg",
+            "alias": "ocean-ale-house-san-francisco",
+            "name": "Ocean Ale House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D_ljKcPpDfqUAr1xqNwFIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ocean-ale-house-san-francisco?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 316,
+            "categories": [
+                {
+                    "alias": "beergardens",
+                    "title": "Beer Gardens"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.72426,
+                "longitude": -122.45672
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1314 Ocean Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1314 Ocean Ave",
+                    "San Francisco, CA 94112"
+                ]
+            },
+            "phone": "+14159887521",
+            "display_phone": "(415) 988-7521",
+            "distance": 8393.297615267304
+        },
+        {
+            "id": "5gXReryZDpESQH0LO1OS-A",
+            "alias": "mq-healthy-fast-food-millbrae",
+            "name": "MQ Healthy Fast Food",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7p0sB2VnYzD0RwJ5P-4Q9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mq-healthy-fast-food-millbrae?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 168,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "wraps",
+                    "title": "Wraps"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.60295,
+                "longitude": -122.39197
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "420 El Camino Real",
+                "address2": "",
+                "address3": null,
+                "city": "Millbrae",
+                "zip_code": "94030",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "420 El Camino Real",
+                    "Millbrae, CA 94030"
+                ]
+            },
+            "phone": "+16507818888",
+            "display_phone": "(650) 781-8888",
+            "distance": 6268.1099237866465
+        },
+        {
+            "id": "g-X7ife8yEjR5TrDB0928Q",
+            "alias": "fiddlers-green-millbrae",
+            "name": "Fiddler's Green",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5U83vloDY48SmIWxhvPLQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fiddlers-green-millbrae?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 417,
+            "categories": [
+                {
+                    "alias": "irish",
+                    "title": "Irish"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.601518513616,
+                "longitude": -122.391592318155
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "333 El Camino Real",
+                "address2": "",
+                "address3": "",
+                "city": "Millbrae",
+                "zip_code": "94030",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "333 El Camino Real",
+                    "Millbrae, CA 94030"
+                ]
+            },
+            "phone": "+16506973419",
+            "display_phone": "(650) 697-3419",
+            "distance": 6424.395581987299
+        },
+        {
+            "id": "54xrIOMoQi7hQiqz5T2WOQ",
+            "alias": "camelot-fish-and-chips-pacifica",
+            "name": "Camelot Fish & Chips",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Dde3pkS1hn8qOaeGevyEsA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/camelot-fish-and-chips-pacifica?adjust_creative=j77NGZIVsXz0JaZu9TqEmA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=j77NGZIVsXz0JaZu9TqEmA",
+            "review_count": 747,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                },
+                {
+                    "alias": "british",
+                    "title": "British"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.64911,
+                "longitude": -122.49213
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "70 W Manor Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Pacifica",
+                "zip_code": "94044",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "70 W Manor Dr",
+                    "Pacifica, CA 94044"
+                ]
+            },
+            "phone": "+16503551555",
+            "display_phone": "(650) 355-1555",
+            "distance": 6093.149511760772
+        }
+    ],
+    "total": 469,
+    "region": {
+        "center": {
+            "longitude": -122.42305755615234,
+            "latitude": 37.65364382305384
+        }
+    }
+}
